@@ -1,3 +1,7 @@
+201908-citibike-tripdata-updated.csv
+201908-citibike-tripdata.csv
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
