@@ -9,8 +9,8 @@ The purpose of this analysis is support the business case from brining bike shar
 **Output**: GitHub ReadMe, Tableau Bikesharing Story <br/>
 
 ## Results
-The screen shots and results below 
-
+The screen shots below describe the results of the bikesharing analysis. For the original Tableau visualizations click on the following link: 
+[Tableau Bikesharing Story](https://public.tableau.com/profile/mike.horstman#!/vizhome/Bikesharing_Challenge_16155041760540/BikesharingStory)
 
 ### Result #1
 ![August Peak Hours](https://github.com/mhorstman/Bikesharing/blob/main/Tableau_Screenshots/August_User_Peak_Hours.png)
@@ -41,3 +41,7 @@ Nearly all Subscribers are categorized as Female or Male; These users are likely
 Most trips start in Manhattan near business and tourist dense areas. In Des Moines it can be expected that typical starting locations will follow the same pattern near business districts and possible near university populations. 
 
 ## Summary
+Although Des Moines is a very different city than New York City, many of the same trends with bikesharing will align. As discussed above, Des Moines may have a smaller percentage of tourists but the usage by locals should be similar to NYC (when adjusted for population). With the right pricing structure the program should be a sucess. 
+In order to continue the analysis I am suggesting that the following additional analysis is performed:
+1. The checkout times analysis should be re-run using only subscribers. Since these are less likely to be tourists and will be more of a source of steady income for the program, this may give a more realiztic picture of what the Des Moinse program can expect to see. 
+2. Another useful datapoint would be percent utilization of the bikes in the system. The total number of bikes can be calculated using the bike ID and then the utilization charted to extimated how many bikes are sitting idle at any one time and therefore not making any money. 
